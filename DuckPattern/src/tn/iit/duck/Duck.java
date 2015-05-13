@@ -7,7 +7,7 @@ public abstract class Duck {
 	protected QuackBehavior quackBehavior;
 	protected FlyBehavior flyBehavior;
   //comm b     fdbcvbcvb    /// efv     s
-	public void performQuack() {
+	public void performQuack() {   
 		quackBehavior.quack();
 	}
 	public void swim(){
