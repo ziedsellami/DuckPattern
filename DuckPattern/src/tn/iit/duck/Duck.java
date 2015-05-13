@@ -6,7 +6,7 @@ import tn.iit.behavior.QuackBehavior;
 public abstract class Duck {
 	protected QuackBehavior quackBehavior;
 	protected FlyBehavior flyBehavior;
-  //comm b     fdbcvbcvb    /// efv
+  //comm b     fdbcvbcvb    /// efv 
 	public void performQuack() {
 		quackBehavior.quack();
 	}
