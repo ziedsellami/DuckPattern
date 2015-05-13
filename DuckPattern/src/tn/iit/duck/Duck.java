@@ -7,7 +7,7 @@ public abstract class Duck {
 	protected QuackBehavior quackBehavior;
 	int i ;
 	protected FlyBehavior flyBehavior;  
-  //comm   t  tttt g 
+  //etc.....  
 	public void performQuack() {       
 		quackBehavior.quack();
 	}
